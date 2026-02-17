@@ -13,4 +13,11 @@ Partners
 
 Register
 
+**Home Section**
+
+h1: Nova Night Run
+
+p: Ignite the night with every step
+
+
 
