@@ -19,5 +19,38 @@ h1: Nova Night Run
 
 p: Ignite the night with every step
 
+**Info section**
+
+h2: Beyond the Finish Line
+
+p: NNR Speed Race is more than just a run; it’s an immersive journey through a city illuminated by neon light. We bring together thousands of athletes to wake up the streets and prove what human spirit can achieve under the cover of night.
+
+p: Experience a certified fast track, professional timing, and high-energy support at every kilometer. From live DJ sets and light shows to a unique "Glow-in-the-Dark" finisher medal, every detail is designed to electrify your race.
+
+p: Whether you're conquering your first mile or chasing a personal best, NNR provides an atmosphere and energy you simply won't find during the day. Step into the glow and find your rhythm.
+
+**Race features:**
+
+Certified Track
+
+Neon Zones
+
+Live DJ Sets
+
+Pro Timing
+
+Energy Gels
+
+Night Glow
+
+Pacemakers
+
+Medical Support
+
+Afterparty
+
+
+
+
 
 
