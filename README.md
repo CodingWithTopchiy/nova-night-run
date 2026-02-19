@@ -49,7 +49,7 @@ Medical Support
 
 Afterparty
 
-**SHEDULE SECTION**
+**SCHEDULE SECTION**
 
 h2: Race Weekend Schedule
 
@@ -61,7 +61,19 @@ Btn-2: Race Day
 
 Btn-3: Winners Ceremony
 
+**SCHEDULE CONTENT**
 
+Day-1: 
+
+Timeline-time: 10:00 - 18:00
+
+Timeline-title: Expo & Bib Collection
+
+Timeline-speaker: Central Stadium Lobby
+
+Timeline-collapse-icon: ▼
+
+Timeline-desc: Final chance to pick up your race pack. Remember to bring your ID and confirmation email.
 
 
 
