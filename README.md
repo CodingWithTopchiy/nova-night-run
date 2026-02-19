@@ -49,6 +49,18 @@ Medical Support
 
 Afterparty
 
+**SHEDULE SECTION **
+
+h2: Race Weekend Schedule
+
+SHEDULE TABS 
+
+Btn-1: Pre-Race Day
+
+Btn-2: Race Day
+
+Btn-3: Winners Ceremony
+
 
 
 
