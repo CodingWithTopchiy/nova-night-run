@@ -63,7 +63,9 @@ Btn-3: Winners Ceremony
 
 **SCHEDULE CONTENT**
 
-Day-1: 
+**Day-1**
+
+Block-1:
 
 Timeline-time: 10:00 - 18:00
 
@@ -74,6 +76,59 @@ Timeline-speaker: Central Stadium Lobby
 Timeline-collapse-icon: ▼
 
 Timeline-desc: Final chance to pick up your race pack. Remember to bring your ID and confirmation email.
+
+Block-2:
+
+Timeline-time: 14:00 - 15:00
+
+Timeline-title: Course Briefing
+
+Timeline-speaker: Race Director
+
+Timeline-collapse-icon: ▼
+
+Timeline-desc: Safety instructions and a detailed map review for all marathon participants.
+
+**Day-2**
+
+Block-1:
+
+Timeline-time: 07:30 - 08:00
+
+Timeline-title: Mass Warm-up
+
+Timeline-speaker: Pro Coaches Team
+
+Timeline-collapse-icon: ▼
+
+Timeline-desc: Get your heart rate up and muscles ready with our professional athletic trainers.
+
+Block-2:
+
+Timeline-time: 08:30
+
+Timeline-title: Main Race Start
+
+Timeline-speaker: All Categories
+
+Timeline-collapse-icon: ▼
+
+Timeline-desc: The starting gun fires! Please arrive at your designated starting corrals 15 minutes early.
+
+**Day-3**
+
+Block-1:
+
+Timeline-time: 11:00 - 13:00
+
+Timeline-title: Award Ceremony
+
+Timeline-speaker: Main Stage
+
+Timeline-collapse-icon: ▼
+
+Timeline-desc: Celebrating the champions! Trophies and prizes for overall and age-group winners.
+
 
 
 
