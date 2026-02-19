@@ -49,7 +49,7 @@ Medical Support
 
 Afterparty
 
-**SHEDULE SECTION **
+**SHEDULE SECTION**
 
 h2: Race Weekend Schedule
 
